@@ -1,0 +1,7 @@
+C:\Users\avser\source\repos\mission_8\mission_8\bin\Debug\mission_8.exe.config
+C:\Users\avser\source\repos\mission_8\mission_8\bin\Debug\mission_8.exe
+C:\Users\avser\source\repos\mission_8\mission_8\bin\Debug\mission_8.pdb
+C:\Users\avser\source\repos\mission_8\mission_8\obj\Debug\mission_8.csproj.AssemblyReference.cache
+C:\Users\avser\source\repos\mission_8\mission_8\obj\Debug\mission_8.csproj.CoreCompileInputs.cache
+C:\Users\avser\source\repos\mission_8\mission_8\obj\Debug\mission_8.exe
+C:\Users\avser\source\repos\mission_8\mission_8\obj\Debug\mission_8.pdb

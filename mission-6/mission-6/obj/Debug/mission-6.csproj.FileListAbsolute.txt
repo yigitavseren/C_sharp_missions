@@ -1,0 +1,7 @@
+C:\Users\avser\source\repos\mission-6\mission-6\bin\Debug\mission-6.exe.config
+C:\Users\avser\source\repos\mission-6\mission-6\bin\Debug\mission-6.exe
+C:\Users\avser\source\repos\mission-6\mission-6\bin\Debug\mission-6.pdb
+C:\Users\avser\source\repos\mission-6\mission-6\obj\Debug\mission-6.csproj.AssemblyReference.cache
+C:\Users\avser\source\repos\mission-6\mission-6\obj\Debug\mission-6.csproj.CoreCompileInputs.cache
+C:\Users\avser\source\repos\mission-6\mission-6\obj\Debug\mission-6.exe
+C:\Users\avser\source\repos\mission-6\mission-6\obj\Debug\mission-6.pdb

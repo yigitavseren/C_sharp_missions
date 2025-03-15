@@ -1,0 +1,2 @@
+C:\Users\avser\source\repos\mission_6\mission_6\obj\Debug\mission_6.csproj.AssemblyReference.cache
+C:\Users\avser\source\repos\mission_6\mission_6\obj\Debug\mission_6.csproj.CoreCompileInputs.cache

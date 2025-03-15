@@ -1,0 +1,7 @@
+C:\Users\avser\source\repos\mission_5\mission_5\obj\Debug\mission_5.csproj.AssemblyReference.cache
+C:\Users\avser\source\repos\mission_5\mission_5\obj\Debug\mission_5.csproj.CoreCompileInputs.cache
+C:\Users\avser\source\repos\mission_5\mission_5\bin\Debug\mission_5.exe.config
+C:\Users\avser\source\repos\mission_5\mission_5\bin\Debug\mission_5.exe
+C:\Users\avser\source\repos\mission_5\mission_5\bin\Debug\mission_5.pdb
+C:\Users\avser\source\repos\mission_5\mission_5\obj\Debug\mission_5.exe
+C:\Users\avser\source\repos\mission_5\mission_5\obj\Debug\mission_5.pdb

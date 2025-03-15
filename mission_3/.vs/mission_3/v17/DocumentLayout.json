@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avser\\source\\repos\\mission_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829FD929-EE8D-40EC-840D-C47E228404D1}|mission_3\\mission_3.csproj|c:\\users\\avser\\source\\repos\\mission_3\\mission_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829FD929-EE8D-40EC-840D-C47E228404D1}|mission_3\\mission_3.csproj|solutionrelative:mission_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avser\\source\\repos\\mission_3\\mission_3\\Program.cs",
+              "RelativeDocumentMoniker": "mission_3\\Program.cs",
+              "ToolTip": "C:\\Users\\avser\\source\\repos\\mission_3\\mission_3\\Program.cs",
+              "RelativeToolTip": "mission_3\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:49:44.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
